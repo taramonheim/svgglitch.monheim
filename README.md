@@ -138,10 +138,10 @@ Hier zu sehen ist ein Svg, dass ich durch das Wissen oben erstellt habe. Hier we
 
 Hier habe ich die Emojis von Ionicons benutzt. Das Katzen Icon habe ich manuell durch dass einsetzten von anderen Zahlen verändert.
 Hier gelten die SVG Regeln wie oben beschrieben.   
-Oben ist die Animation der Schrift definiert und im unteren Teil die verschiedenen Gruppen ```<g>``,  die die einzelnen Parts der Katze (Outlines, Augen, etc.) bestimmen.   
+Oben ist die Animation der Schrift definiert und im unteren Teil die verschiedenen Gruppen <g>,  die die einzelnen Parts der Katze (Outlines, Augen, etc.) bestimmen.   
 // hier kann man den Code sehen, den ich dafür benutzt habe: das ganze sind mehrere Svgs ineinander 
 
-```
+
 <svg width=1000 height= 1000 styLe="border: 5px soLid bLack" viewBox="-1000 0 
 2000 100" stroke= "black" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
@@ -198,7 +198,7 @@ Oben ist die Animation der Schrift definiert und im unteren Teil die verschieden
 2 32.1 14.7 17.790 15.8 26.6 35.5 26.6 59.1-.1 4000000.6-14.2 679999.6-42 80.7z"/>    
 </g>
 </svg>
-```
+
 >Vierter Schritt: Zusammenfügen der verschiedenen Teile im Endprojekt Space Invaders
 
 <img src="svgglitch2.png" width="171" height="162" alt="SVG Glitch Katze"/>
