@@ -138,7 +138,7 @@ Hier zu sehen ist ein Svg, dass ich durch das Wissen oben erstellt habe. Hier we
 
 Hier habe ich die Emojis von Ionicons benutzt. Das Katzen Icon habe ich manuell durch dass einsetzten von anderen Zahlen verändert.
 Hier gelten die SVG Regeln wie oben beschrieben.   
-Oben ist die Animation der Schrift definiert und im unteren Teil die verschiedenen Gruppen <g>,  die die einzelnen Parts der Katze (Outlines, Augen, etc.) bestimmen.   
+Oben ist die Animation der Schrift definiert und im unteren Teil die verschiedenen Gruppen <kbd><g></kbd>,  die die einzelnen Parts der Katze (Outlines, Augen, etc.) bestimmen.   
 // hier kann man den Code sehen, den ich dafür benutzt habe: das ganze sind mehrere Svgs ineinander 
 
 
