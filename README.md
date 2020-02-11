@@ -11,7 +11,7 @@ Technisches Grundlagenprojekt bei Martin Schneider.
  
 **Zweites Projekt**: Verbinden des Phillip Hue mit dem Rasperry Pi  
 sowie Steuerung der Helligkeit und Farbe.  
-Mitglied der "Lampen" Gruppe. (zu finden im iot-share/ wiki)
+Mitglied der "Lampen" Gruppe. (zu finden im iot-share/ wiki: https://iot-share/wiki/Phillips_Hue)
 
 ##### Projektübersicht  
 
